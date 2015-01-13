@@ -12,15 +12,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "ACKspace",
         "address": "Kloosterweg 1",
         "zip": "6412 CN",
         "city": "Heerlen",
         "url": "http://ackspace.nl/wiki/Main_Page",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -34,15 +34,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "Bhack",
         "address": "Sassenstraat 26",
         "zip": "8011 PC",
         "city": "Zwolle",
         "url": "http://bhack.nl",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -56,15 +56,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "Bitlair",
         "address": "Heiligenbergerweg 144b",
         "zip": "3816 AN",
         "city": "Amersfoort",
         "url": "https://bitlair.nl",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -78,15 +78,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "Frack",
         "address": "Zuiderplein 33",
         "zip": "8911 AN",
         "city": "Leeuwarden",
         "url": "http://frack.nl",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -100,15 +100,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "Hack42",
         "address": "Koningsweg 23a",
         "zip": "6816 TD",
         "city": "Arnhem",
         "url": "https://hack42.nl",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -122,15 +122,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "LAG",
         "address": "Eerste Schinkelstraat 16",
         "zip": "1075 TX",
         "city": "Amsterdam",
         "url": "http://laglab.org",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -144,15 +144,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "MADspace",
         "address": "Vestdijk 280",
         "zip": "5611 CZ",
         "city": "Eindhoven",
         "url": "http://www.madspace.nl",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -166,15 +166,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "moddr_",
         "address": "Boomgaardstraat 71",
         "zip": "3012 XA",
         "city": "Rotterdam",
         "url": "http://moddr.net",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -188,15 +188,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "NURDspace",
         "address": "Churchillweg 68",
         "zip": "6706 AD",
         "city": "Wageningen",
         "url": "http://nurdspace.nl",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -210,15 +210,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "TkkrLab",
         "address": "Hengelosestraat 525",
         "zip": "7521 AG",
         "city": "Enschede",
         "url": "https://TkkrLab.nl",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -232,15 +232,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "TechInc",
         "address": "Louwesweg 1",
         "zip": "1066 EA",
         "city": "Amsterdam",
         "url": "http://techinc.nl",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -254,15 +254,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "RandomData",
         "address": "Parkstraat 40",
         "zip": "3581 PL",
         "city": "Utrecht",
         "url": "http://randomdata.nl",
-    "email": "",
-    "phone": "",
-    "description": "l33t hackers&amp;#44; exploits&amp;#44; zerodays&amp;#44; research&amp;#44; technology"
+        "email": "",
+        "phone": "",
+        "description": "l33t hackers&amp;#44; exploits&amp;#44; zerodays&amp;#44; research&amp;#44; technology"
       }
     }
     ,
@@ -276,15 +276,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "RevSpace",
         "address": "Spoorlaan 5-D",
         "zip": "2495 AL",
         "city": "Den Haag",
         "url": "https://revspace.nl",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -298,15 +298,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "Sk1llz",
         "address": "Stadhuisplein 2",
         "zip": "1315 HT",
         "city": "Almere",
         "url": "http://sk1llz.nl",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -320,15 +320,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "Awesome Space",
         "address": "Amerikalaan 109",
         "zip": "3526 VG",
         "city": "Utrecht",
         "url": "http://awesomespace.nl",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -342,15 +342,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "VoidWarrenties",
         "address": "Herrystraat 22",
         "zip": "2100",
         "city": "Deurne",
         "url": "http://www.voidwarranties.be/",
-    "email": "",
-    "phone": "",
-    "description": ""
+        "email": "",
+        "phone": "",
+        "description": ""
       }
     }
     ,
@@ -364,15 +364,15 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "rocket",
         "name": "TDvenlo",
         "address": "Grote Kerkstraat 31",
         "zip": "5911 GC",
         "city": "Venlo",
         "url": "http://tdvenlo.nl",
-    "email": "",
-    "phone": "06 1918 0130",
-    "description": "Elke vrijdag avond is er opkomst in the Ald Weishoes te Venlo Tussen 19:30 en 21:00 kan de jeugd (9 — 15 jaar) onder begeleiding met techniek knutselen. Tegelijkertijd kunnen de volwassenen ook aan de slag met hun eigen projecten."
+        "email": "",
+        "phone": "06 1918 0130",
+        "description": "Elke vrijdag avond is er opkomst in the Ald Weishoes te Venlo Tussen 19:30 en 21:00 kan de jeugd (9 — 15 jaar) onder begeleiding met techniek knutselen. Tegelijkertijd kunnen de volwassenen ook aan de slag met hun eigen projecten."
       }
     }
     ]
