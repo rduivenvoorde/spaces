@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3683985,
+          52.0632053
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "RevSpace",
+        "address": "Spoorlaan 5-D",
+        "zip": "2495 AL",
+        "city": "Den Haag",
+        "url": "https://revspace.nl"
+      }
+    }
+    
+    ]
+}
+
+
