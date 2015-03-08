@@ -1,7 +1,28 @@
-{
+﻿{
   "type": "FeatureCollection",
   "features": [
-
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.581168,
+          53.22188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "rocket",
+        "name": "Hackerspace Groningen",
+        "address": "Dirk Huizingastraat 13",
+        "zip": "9713 GL",
+        "city": "Groningen",
+        "url": "http://www.hackerspacegroningen.nl/",
+        "email": "",
+        "phone": "",
+        "description": ""
+      }
+    }
+    ,
     {
       "type": "Feature",
       "geometry": {
